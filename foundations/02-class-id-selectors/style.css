@@ -1,0 +1,19 @@
+.aclass {
+    background-color: indianred;
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+.aclass .cooler {
+    font-size: 24px;
+}
+
+#id {
+    color: blue;
+    font-size: 36px;
+}
+
+#id2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
